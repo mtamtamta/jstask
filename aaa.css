@@ -1,0 +1,25 @@
+html{
+    background-image: url("resource/fon.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.center{
+    text-align: center;
+    color: black;
+    font: italic small-caps bold 16px/2 cursive;
+}
+input {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #444;
+    color: black;
+    font: italic small-caps bold 16px/2 cursive;
+}
+li{
+    list-style-type: none;
+}
